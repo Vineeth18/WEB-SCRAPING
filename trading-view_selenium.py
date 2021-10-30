@@ -1,5 +1,3 @@
-# Scraping daily largecap, gainers, losers from Tradingview 
-
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException , NoSuchElementException , ElementNotInteractableException
 import pandas as pd 
