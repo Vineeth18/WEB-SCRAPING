@@ -15,8 +15,8 @@ browser.maximize_window()
 
 url = [
 	'https://in.tradingview.com/markets/stocks-india/market-movers-large-cap/' , 
-	# 'https://in.tradingview.com/markets/stocks-india/market-movers-gainers/' ,
-	# 'https://in.tradingview.com/markets/stocks-india/market-movers-losers/'
+	'https://in.tradingview.com/markets/stocks-india/market-movers-gainers/' ,
+	'https://in.tradingview.com/markets/stocks-india/market-movers-losers/'
 	]
 
 for URL in url:
